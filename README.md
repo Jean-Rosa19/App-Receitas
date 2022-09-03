@@ -1,16 +1,26 @@
-# 🚧 README em construção 🚧
 
-<!-- Olá, Tryber!
+# 🥙 App de Receitas
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+![Preview Projeto](./src/images/receitas-image.png)
 
-É essencial que você preencha esse documento por conta própria, ok?
+## :satellite: Desenvolvimento
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+Projeto desenvolvido na <a href="https://betrybe.com/" target="_blank">Trybe</a> durante o módulo de Front-End!
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+Nesse projeto desenvolvemos uma aplicação de um app de receitas, fizemos requisições para a APIs
 
--->
+
+## :hammer_and_wrench: Tecnologias
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Context API
+
+## Colaborações
+
+* Larissa Perinoto
+* Gustavo Vieira
+* Harumi Maeda
+* Robson Mendes
